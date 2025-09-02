@@ -1,7 +1,7 @@
 function HomePage() {
   return (
     <div>
-      <h1>Welcome to Tab Run News - In Construction</h1>
+      <h1>Welcome to Tab Run News - In Construction by Iurk Batista</h1>
     </div>
   );
 }
